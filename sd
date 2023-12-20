@@ -1,0 +1,13 @@
+# Get input from the user
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+
+# Add the two numbers
+result = num1 + num2
+result2 = num1 - num2
+result3 = num1 * num2
+# Display the result
+print(f"The sum of {num1} and {num2} is {result}")
+print(f"The sum of {num1} and {num2} is {result2}")
+print(f"The sum of {num1} and {num2} is {result3}")
+print("you did great job Merry Christmas you naughty animal")
